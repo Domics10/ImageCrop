@@ -1,0 +1,10 @@
+crop:
+  mode: split
+  source: ./test_set
+  dest: ./outputx4
+  recpath: ./recomposed/
+
+split:
+  left: 3
+  right: 3
+  middle: 2
